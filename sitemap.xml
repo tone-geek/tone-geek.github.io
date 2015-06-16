@@ -28,21 +28,21 @@
       <?xml version="1.0" encoding="UTF-8"?>
       <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
-          <loc>http://www.tone-geek.com/en/form.html</loc>
+          <loc>http://www.tone-geek.com/form.html</loc>
           <lastmod>2015-05-30</lastmod>
-          <priority>0.9</priority>
+          <priority>1.0</priority>
           <changefreq>daily</changefreq>
         </url>
         <url>
-          <loc>http://www.tone-geek.com/en/</loc>
+          <loc>http://www.tone-geek.com/</loc>
           <lastmod>2015-06-15</lastmod>
-          <priority>0.9</priority>
+          <priority>1.0</priority>
           <changefreq>daily</changefreq>
         </url>
         <url>
-          <loc>http://www.tone-geek.com/en/mobile/</loc>
+          <loc>http://www.tone-geek.com/mobile/</loc>
           <lastmod>2015-06-16</lastmod>
-          <priority>0.8</priority>
+          <priority>0.9</priority>
           <changefreq>daily</changefreq>
         </url>
       </urlset>
