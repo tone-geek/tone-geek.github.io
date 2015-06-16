@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.vejerísimo.com/sitemap.xml
+Sitemap: http://www.tone-geek.com/sitemap.xml
